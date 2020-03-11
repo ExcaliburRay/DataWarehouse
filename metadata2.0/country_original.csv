@@ -1,0 +1,260 @@
+Area_Number,AreaAbbreviation,Area_Name
+1001,AX,A land Islands
+1002,AF,Afghanistan
+1003,XF,Africa
+1004,AL,Albania
+1005,DZ,Algeria
+1006,AS,American Samoa
+1007,AD,Andorra
+1008,AO,Angola
+1009,AI,Anguilla
+1010,AQ,Antarctica
+1011,AG,Antigua and Barbuda
+1012,AR,Argentina
+1013,AM,Armenia
+1014,AW,Aruba
+1015,XS,Asia
+1016,AU,Australia
+1017,AT,Austria
+1018,AZ,Azerbaijan
+1019,BS,Bahamas
+1020,BH,Bahrain
+1021,BD,Bangladesh
+1022,BB,Barbados
+1023,BY,Belarus
+1024,BE,Belgium
+1025,BZ,Belize
+1026,BJ,Benin
+1027,BM,Bermuda
+1028,BT,Bhutan
+1029,BO,"Bolivia, Plurinational State of"
+1030,BQ,"Bonaire, Sint Eustatius and Saba"
+1031,BA,Bosnia and Herzegovina
+1032,BW,Botswana
+1033,BV,Bouvet Island
+1034,BR,Brazil
+1035,IO,British Indian Ocean Territory
+1036,BN,Brunei Darussalam
+1037,BG,Bulgaria
+1038,BF,Burkina Faso
+1039,BI,Burundi
+1040,CI,CA'te d'Ivoire
+1041,KH,Cambodia
+1042,CM,Cameroon
+1043,CA,Canada
+1044,CV,Cape Verde
+1045,XC,Caribbean
+1046,KY,Cayman Islands
+1047,CF,Central African Republic
+1048,TD,Chad
+1049,CL,Chile
+1050,CN,China
+1051,CX,Christmas Island
+1052,CC,Cocos (Keeling) Islands
+1053,CO,Colombia
+1054,KM,Comoros
+1055,CG,Congo
+1056,CD,"Congo, the Democratic Republic of the"
+1057,CK,Cook Islands
+1058,CR,Costa Rica
+1059,HR,Croatia
+1060,CU,Cuba
+1061,CW,CuraAao
+1062,CY,Cyprus
+1063,ZC,Former Czechoslovakia
+1064,DK,Denmark
+1065,DJ,Djibouti
+1066,DM,Dominica
+1067,DO,Dominican Republic
+1068,EC,Ecuador
+1069,EG,Egypt
+1070,SV,El Salvador
+1071,GQ,Equatorial Guinea
+1072,ER,Eritrea
+1073,EE,Estonia
+1074,ET,Ethiopia
+1075,XE,Europe
+1076,FK,Falkland Islands (Malvinas)
+1077,FO,Faroe Islands
+1078,FJ,Fiji
+1079,FI,Finland
+1084,FR,France
+1085,XA,French Antilles
+1086,GF,French Guiana
+1087,PF,French Polynesia
+1088,TF,French Southern Territories
+1089,GA,Gabon
+1090,GM,Gambia
+1091,GE,Georgia
+1093,DD,German Democratic Republic
+1094,GH,Ghana
+1095,GI,Gibraltar
+1096,GR,Greece
+1097,GL,Greenland
+1098,GD,Grenada
+1099,GP,Guadeloupe
+1100,GU,Guam
+1101,GT,Guatemala
+1102,GG,Guernsey
+1103,GN,Guinea
+1104,GW,Guinea-Bissau
+1105,GY,Guyana
+1106,HT,Haiti
+1107,HM,Heard Island and McDonald Islands
+1108,VA,Holy See (Vatican City State)
+1109,HN,Honduras
+1110,HK,Hong Kong
+1111,HU,Hungary
+1112,IS,Iceland
+1113,IN,India
+1114,ID,Indonesia
+1115,ZZ,Introduction From Sea
+1116,IR,"Iran, Islamic Republic of"
+1117,IQ,Iraq
+1118,IE,Ireland
+1119,IM,Isle of Man
+1120,IL,Israel
+1121,IT,Italy
+1122,JM,Jamaica
+1123,JP,Japan
+1124,JE,Jersey
+1125,JO,Jordan
+1126,KZ,Kazakhstan
+1127,KE,Kenya
+1128,KI,Kiribati
+1129,KP,"Korea, Democratic People's Republic of"
+1130,KR,"Korea, Republic of"
+1131,KW,Kuwait
+1132,KG,Kyrgyzstan
+1133,LA,Lao People's Democratic Republic
+1134,LV,Latvia
+1135,LB,Lebanon
+1136,LS,Lesotho
+1137,LR,Liberia
+1138,LY,Libya
+1139,LI,Liechtenstein
+1140,LT,Lithuania
+1141,LU,Luxembourg
+1142,MO,Macao
+1143,MK,"Macedonia, the Former Yugoslav Republic of"
+1144,MG,Madagascar
+1145,MW,Malawi
+1146,MY,Malaysia
+1147,MV,Maldives
+1148,ML,Mali
+1149,MT,Malta
+1150,MH,Marshall Islands
+1151,MQ,Martinique
+1152,MR,Mauritania
+1153,MU,Mauritius
+1154,YT,Mayotte
+1155,MX,Mexico
+1156,FM,"Micronesia, Federated States of"
+1157,MD,"Moldova, Republic of"
+1158,MC,Monaco
+1159,MN,Mongolia
+1160,ME,Montenegro
+1161,MS,Montserrat
+1162,MA,Morocco
+1163,MZ,Mozambique
+1164,MM,Myanmar
+1165,NA,Namibia
+1166,NR,Nauru
+1167,NP,Nepal
+1168,NL,Netherlands
+1168,AN,Netherlands Antilles
+1170,NC,New Caledonia
+1171,NZ,New Zealand
+1172,NI,Nicaragua
+1173,NE,Niger
+1174,NG,Nigeria
+1175,NU,Niue
+1176,NF,Norfolk Island
+1177,MP,Northern Mariana Islands
+1178,NO,Norway
+1179,OM,Oman
+1180,PK,Pakistan
+1181,PC,FORMER PACIFIC TRUST TERRITORY
+1182,PS,"Palestine, State of"
+1183,PA,Panama
+1184,PG,Papua New Guinea
+1185,PY,Paraguay
+1186,PE,Peru
+1187,PH,Philippines
+1188,PN,Pitcairn
+1189,PL,Poland
+1190,PT,Portugal
+1191,PR,Puerto Rico
+1192,QA,Qatar
+1193,RE,RAunion
+1194,RO,Romania
+1195,SU,Soviet Union
+1196,RW,Rwanda
+1197,BL,Saint BarthAlemy
+1198,SH,"Saint Helena, Ascension and Tristan da Cunha"
+1199,KN,Saint Kitts and Nevis
+1200,LC,Saint Lucia
+1201,MF,Saint Martin (French part)
+1202,PM,Saint Pierre and Miquelon
+1203,VC,Saint Vincent and the Grenadines
+1204,WS,Samoa
+1205,SM,San Marino
+1206,ST,Sao Tome and Principe
+1207,SA,Saudi Arabia
+1208,SN,Senegal
+1209,CS,FORMER SERBIA AND MONTENEGRO
+1210,SC,Seychelles
+1211,SL,Sierra Leone
+1212,SG,Singapore
+1213,SX,Sint Maarten (Dutch part)
+1214,SK,Slovakia
+1215,SI,Slovenia
+1216,SB,Solomon Islands
+1217,SO,Somalia
+1218,ZA,South Africa
+1219,XM,South America
+1220,GS,South Georgia and the South Sandwich Islands
+1221,SS,South Sudan
+1223,ES,Spain
+1224,LK,Sri Lanka
+1225,SD,Sudan
+1226,SR,Suriname
+1227,SJ,Svalbard and Jan Mayen
+1228,SZ,Swaziland
+1229,SE,Sweden
+1230,CH,Switzerland
+1231,SY,Syrian Arab Republic
+1232,TW,"Taiwan, Province of China"
+1233,TJ,Tajikistan
+1234,TZ,"Tanzania, United Republic of"
+1235,TH,Thailand
+1236,TL,Timor-Leste
+1237,TG,Togo
+1238,TK,Tokelau
+1239,TO,Tonga
+1240,TT,Trinidad and Tobago
+1241,TN,Tunisia
+1242,TR,Turkey
+1243,TM,Turkmenistan
+1244,TC,Turks and Caicos Islands
+1245,TV,Tuvalu
+1246,UG,Uganda
+1247,UA,Ukraine
+1248,AE,United Arab Emirates
+1249,GB,United Kingdom
+1250,US,United States
+1251,UM,United States Minor Outlying Islands
+1252,XX,Unknown States
+1253,UY,Uruguay
+1254,UZ,Uzbekistan
+1255,VU,Vanuatu
+1256,XV,Various
+1257,VE,"Venezuela, Bolivarian Republic of"
+1258,VN,Viet Nam
+1259,VG,"Virgin Islands, British"
+1260,VI,"Virgin Islands, U.S."
+1261,WF,Wallis and Futuna
+1262,EH,Western Sahara
+1263,YE,Yemen
+1264,ZM,Zambia
+1265,ZW,Zimbabwe

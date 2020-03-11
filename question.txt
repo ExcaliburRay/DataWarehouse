@@ -1,0 +1,4 @@
+1. Units has around 8 measures, we plan to make it as one dimension with key, unit, description
+2. trade_dim -> trade_dim_key,ex
+
+3. country_full_name, unit_desc, total price, add two active_flag, split into different csv

@@ -1,0 +1,213 @@
+ExporterKey,ExporterAbbreviation,ExporterName,ExporterActiveFlag
+0,NL,Netherlands,1
+1,RS,Serbia,1
+2,NO,Norway,1
+3,IS,Iceland,1
+4,FR,France,1
+5,DE,Germany,1
+6,IR,"Iran, Islamic Republic of",1
+7,NZ,New Zealand,1
+8,US,United States,1
+9,CN,China,1
+10,JP,Japan,1
+11,CA,Canada,1
+12,DK,Denmark,1
+13,JE,Jersey,1
+14,GB,United Kingdom,1
+15,CH,Switzerland,1
+16,BE,Belgium,1
+17,TH,Thailand,1
+18,CL,Chile,1
+19,IT,Italy,1
+20,PE,Peru,1
+21,GL,Greenland,1
+22,RU,Russian Federation,1
+23,TN,Tunisia,1
+24,ZZ,Unknown or Invalid Territory,0
+25,CV,Cape Verde,1
+26,AU,Australia,1
+27,FI,Finland,1
+28,SE,Sweden,1
+29,XX,Unknown States,0
+30,AQ,Antarctica,1
+31,MX,Mexico,1
+32,VC,Saint Vincent and the Grenadines,1
+33,MG,Madagascar,1
+34,OM,Oman,1
+35,,Namibia,1
+36,QA,Qatar,1
+37,AE,United Arab Emirates,1
+38,SK,Slovakia,1
+39,TJ,Tajikistan,1
+40,PK,Pakistan,1
+41,BY,Belarus,1
+42,LA,Lao People's Democratic Republic,1
+43,ES,Spain,1
+44,ZA,South Africa,1
+45,PL,Poland,1
+46,BR,Brazil,1
+47,DO,Dominican Republic,1
+48,BH,Bahrain,1
+49,PH,Philippines,1
+50,PT,Portugal,1
+51,IL,Israel,1
+52,SG,Singapore,1
+53,KZ,Kazakhstan,1
+54,BS,Bahamas,1
+55,UZ,Uzbekistan,1
+56,KW,Kuwait,1
+57,MT,Malta,1
+58,HK,Hong Kong,1
+59,CZ,Czech Republic,1
+60,HU,Hungary,1
+61,KH,Cambodia,1
+62,AT,Austria,1
+63,AR,Argentina,1
+64,LT,Lithuania,1
+65,TZ,"Tanzania, United Republic of",1
+66,VN,Viet Nam,1
+67,GG,Guernsey,1
+68,MC,Monaco,1
+69,LB,Lebanon,1
+70,BM,Bermuda,1
+71,KY,Cayman Islands,1
+72,NI,Nicaragua,1
+73,PA,Panama,1
+74,UY,Uruguay,1
+75,ST,Sao Tome and Principe,1
+76,CR,Costa Rica,1
+77,FJ,Fiji,1
+78,HT,Haiti,1
+79,KR,"Korea, Republic of",1
+80,TO,Tonga,1
+81,BZ,Belize,1
+82,CO,Colombia,1
+83,FM,"Micronesia, Federated States of",1
+84,JM,Jamaica,1
+85,LC,Saint Lucia,1
+86,MH,Marshall Islands,1
+87,PW,Palau,1
+88,SV,El Salvador,1
+89,TR,Turkey,1
+90,VE,"Venezuela, Bolivarian Republic of",1
+91,CU,Cuba,1
+92,ET,Ethiopia,1
+93,TW,"Taiwan, Province of China",1
+94,VG,"Virgin Islands, British",1
+95,GD,Grenada,1
+96,MV,Maldives,1
+97,IN,India,1
+98,MY,Malaysia,1
+99,UG,Uganda,1
+100,SN,Senegal,1
+101,SD,Sudan,1
+102,ZM,Zambia,1
+103,MO,Macao,1
+104,BD,Bangladesh,1
+105,RO,Romania,1
+106,CD,"Congo, the Democratic Republic of the",1
+107,NG,Nigeria,1
+108,KN,Saint Kitts and Nevis,1
+109,LI,Liechtenstein,1
+110,IE,Ireland,1
+111,GR,Greece,1
+112,ID,Indonesia,1
+113,KE,Kenya,1
+114,SL,Sierra Leone,1
+115,GE,Georgia,1
+116,MM,Myanmar,1
+117,UA,Ukraine,1
+118,LK,Sri Lanka,1
+119,MZ,Mozambique,1
+120,AD,Andorra,1
+121,SI,Slovenia,1
+122,CI,Côte d'Ivoire,1
+123,ZW,Zimbabwe,1
+124,CM,Cameroon,1
+125,LU,Luxembourg,1
+126,SA,Saudi Arabia,1
+127,SZ,Swaziland,1
+128,MN,Mongolia,1
+129,MA,Morocco,1
+130,BG,Bulgaria,1
+131,JO,Jordan,1
+132,AM,Armenia,1
+133,MU,Mauritius,1
+134,AZ,Azerbaijan,1
+135,BO,"Bolivia, Plurinational State of",1
+136,EC,Ecuador,1
+137,PY,Paraguay,1
+138,CF,Central African Republic,1
+139,ML,Mali,1
+140,EE,Estonia,1
+141,NC,New Caledonia,1
+142,YE,Yemen,1
+143,KG,Kyrgyzstan,1
+144,RW,Rwanda,1
+145,CG,Congo,1
+146,GA,Gabon,1
+147,IQ,Iraq,1
+148,GI,Gibraltar,1
+149,LV,Latvia,1
+150,SR,Suriname,1
+151,KM,Comoros,1
+152,HR,Croatia,1
+153,FK,Falkland Islands (Malvinas),1
+154,GS,South Georgia and the South Sandwich Islands,1
+155,PG,Papua New Guinea,1
+156,GQ,Equatorial Guinea,1
+157,LS,Lesotho,1
+158,CY,Cyprus,1
+159,MD,"Moldova, Republic of",1
+160,CK,Cook Islands,1
+161,AG,Antigua and Barbuda,1
+162,CW,Curaçao,1
+163,SB,Solomon Islands,1
+164,IO,British Indian Ocean Territory,1
+165,EG,Egypt,1
+166,BJ,Benin,1
+167,GH,Ghana,1
+168,TG,Togo,1
+169,AL,Albania,1
+170,BL,Saint Barthélemy,1
+171,XV,Visegrad Patent Institute,0
+172,BB,Barbados,1
+173,NE,Niger,1
+174,SX,Sint Maarten (Dutch part),1
+175,TC,Turks and Caicos Islands,1
+176,GY,Guyana,1
+177,GT,Guatemala,1
+178,ER,Eritrea,1
+179,MK,"Macedonia, the Former Yugoslav Republic of",1
+180,LR,Liberia,1
+181,DM,Dominica,1
+182,GW,Guinea-Bissau,1
+183,IM,Isle of Man,1
+184,TD,Chad,1
+185,GN,Guinea,1
+186,MW,Malawi,1
+187,FO,Faroe Islands,1
+188,HN,Honduras,1
+189,BW,Botswana,1
+190,SH,"Saint Helena, Ascension and Tristan da Cunha",1
+191,SM,San Marino,1
+192,DD,German Democratic Republic,0
+193,SC,Seychelles,1
+194,TT,Trinidad and Tobago,1
+195,SY,Syrian Arab Republic,1
+196,BI,Burundi,1
+197,NP,Nepal,1
+198,TL,Timor-Leste,1
+199,PF,French Polynesia,1
+200,GP,Guadeloupe,1
+201,VU,Vanuatu,1
+202,AN,Netherlands Antilles,0
+203,AW,Aruba,1
+204,KP,"Korea, Democratic People's Republic of",1
+205,TK,Tokelau,1
+206,KI,Kiribati,1
+207,WS,Samoa,1
+208,GM,Gambia,1
+209,BA,Bosnia and Herzegovina,1
+210,ME,Montenegro,1
+211,AO,Angola,1

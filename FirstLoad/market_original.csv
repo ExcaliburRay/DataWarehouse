@@ -1,0 +1,118 @@
+﻿MarketingNumber,Purpose,Source,PurposeDescription,SourceDescription
+201,B,A,Breeding in captivity or artificial propagation,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+202,B,C,Breeding in captivity or artificial propagation,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+203,B,D,Breeding in captivity or artificial propagation,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+204,B,F,Breeding in captivity or artificial propagation,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+205,B,I,Breeding in captivity or artificial propagation,Confiscated or seized specimens
+206,B,O,Breeding in captivity or artificial propagation,Out of date specimens
+208,B,R,Breeding in captivity or artificial propagation,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+209,B,U,Breeding in captivity or artificial propagation,Source unknown.
+210,B,U,Breeding in captivity or artificial propagation,Unknown
+213,B,,Breeding in captivity or artificial propagation,
+214,E,A,Experiment,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+216,E,C,Experiment,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+218,E,D,Experiment,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+220,E,F,Experiment,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+222,E,I,Experiment,illegal specimens
+224,E,O,Experiment,Out of date specimens
+227,E,R,Experiment,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+228,E,U,Experiment,Unknown
+230,E,W,Experiment,wild specimens.
+232,G,A,Garden,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+234,G,D,Garden,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+236,G,W,Garden,wild specimens.
+238,H,C,Hunting trophy,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+239,H,F,Hunting trophy,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+240,H,I,Hunting trophy,illegal specimens
+242,H,O,Hunting trophy,Pre-Convention specimens
+243,H,R,Hunting trophy,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+244,H,U,Hunting trophy,Unknown
+246,H,W,Hunting trophy,wild specimens.
+248,H,,Hunting trophy,
+249,L,C,Law enforcement,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+251,L,I,Law enforcement,illegal specimens
+253,L,U,Law enforcement,Unknown
+255,L,W,Law enforcement,wild specimens.
+257,L,,Law enforcement,
+258,M,C,Medical,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+260,M,D,Medical,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+262,M,F,Medical,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+264,M,I,Medical,illegal specimens
+266,M,O,Medical,Out of date specimens
+268,M,U,Medical,Unknown
+270,M,W,Medical,wild specimens.
+272,M,,Medical (including biomedical research),
+273,N,C,Reintroduction or introduction into the wild,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+274,N,F,Reintroduction or introduction into the wild,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+275,N,I,Reintroduction or introduction into the wild,illegal specimens
+277,N,R,Reintroduction or introduction into the wild,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+278,N,U,Reintroduction or introduction into the wild,Unknown
+279,N,W,Reintroduction or introduction into the wild,wild specimens.
+281,P,A,Personal,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+282,P,C,Personal,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+283,P,D,Personal,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+284,P,F,Personal,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+285,P,I,Personal,illegal specimens
+287,P,O,Personal,Pre-Convention specimens
+289,P,R,Personal,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+290,P,U,Personal,Unknown
+292,P,W,Personal,wild specimens.
+294,P,,Personal,
+295,Q,A,Circus or travelling exhibition,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+296,Q,C,Circus or travelling exhibition,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+297,Q,D,Circus or travelling exhibition,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+298,Q,F,Circus or travelling exhibition,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+299,Q,I,Circus or travelling exhibition,illegal specimens
+301,Q,O,Circus or travelling exhibition,Out of date specimens
+303,Q,R,Circus or travelling exhibition,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+304,Q,U,Circus or travelling exhibition,Unknown
+306,Q,W,Circus or travelling exhibition,wild specimens.
+308,S,A,Science Research,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+309,S,A,Scientific,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+310,S,C,Science Research,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+312,S,D,Science Research,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+314,S,F,Science Research,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+316,S,I,Science Research,illegal specimens
+318,S,O,Science Research,Out of date specimens
+320,S,R,Science Research,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+322,S,U,Science Research,Unknown
+324,S,W,Science Research,wild specimens.
+326,S,X,Science Research,Specimens taken in the marine environment not under the jurisdiction of any State.
+328,S,,Scientific,
+329,T,A,Training,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+331,T,C,Training,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+333,T,D,Training,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+335,T,F,Training,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+337,T,I,Training,illegal specimens
+340,T,O,Training,Out of date specimens
+341,T,R,Training,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+343,T,U,Training,Unknown
+345,T,W,Training,wild specimens.
+347,T,X,Training,Specimens taken in the marine environment not under the jurisdiction of any State.
+349,T,,Training,
+351,Z,C,Zoo,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+352,Z,D,Zoo,"Appendix-I animals bred in captivity for commercial purposes in operations included in the Secretariat's Register, in accordance with Resolution Conf. 12.10 (Rev. CoP15), and Appendix-I plants artificially propagated for commercial purposes, as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 4, of the Convention."
+353,Z,F,Zoo,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+354,Z,I,Zoo,illegal specimens
+356,Z,O,Zoo,Out of date specimens
+358,Z,R,Zoo,"Ranched specimens: specimens of animals reared in a controlled environment, taken as eggs or juveniles from the wild, where they would otherwise have had a very low probability of surviving to adulthood.
+"
+359,Z,U,Zoo,Unknown
+361,Z,W,Zoo,wild specimens.
+363,Z,,Zoo,
+364,,A,,"Plants that are artificially propagated in accordance with Resolution Conf. 11.11 (Rev.CoP15), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention (specimens of species included in Appendix I that have been propagated artificially for non-commercial purposes and specimens of species included in Appendices II and III)."
+365,,C,,"Animals bred in captivity in accordance with Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof, exported under the provisions of Article VII, paragraph 5, of the Convention."
+366,,F,,"Animals born in captivity (F1 or subsequent generations) that do not fulfil the definition of 'bred in captivity' in Resolution Conf. 10.16 (Rev.), as well as parts and derivatives thereof."
+367,,O,,Out of date specimens
+369,,U,,Source unknown.
+370,,W,,wild specimens.
+372,,,,
+373,P,O,Personal,Out of date specimens
